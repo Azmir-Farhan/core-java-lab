@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Binary
+class IntegerToBinary
 {
     public static void main(String[] args) 
     {
@@ -29,6 +29,6 @@ class Binary
         {
             System.out.print(arr[j]);
         }
-        input.close
+        input.close();
     }
 }
